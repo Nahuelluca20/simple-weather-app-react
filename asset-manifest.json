@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-weather-app-react/static/css/main.1874b091.chunk.css",
+    "main.js": "/simple-weather-app-react/static/js/main.3745d97b.chunk.js",
+    "main.js.map": "/simple-weather-app-react/static/js/main.3745d97b.chunk.js.map",
+    "runtime-main.js": "/simple-weather-app-react/static/js/runtime-main.f08e9659.js",
+    "runtime-main.js.map": "/simple-weather-app-react/static/js/runtime-main.f08e9659.js.map",
+    "static/js/2.89bb41a4.chunk.js": "/simple-weather-app-react/static/js/2.89bb41a4.chunk.js",
+    "static/js/2.89bb41a4.chunk.js.map": "/simple-weather-app-react/static/js/2.89bb41a4.chunk.js.map",
+    "static/js/3.76535d2b.chunk.js": "/simple-weather-app-react/static/js/3.76535d2b.chunk.js",
+    "static/js/3.76535d2b.chunk.js.map": "/simple-weather-app-react/static/js/3.76535d2b.chunk.js.map",
+    "index.html": "/simple-weather-app-react/index.html",
+    "static/css/main.1874b091.chunk.css.map": "/simple-weather-app-react/static/css/main.1874b091.chunk.css.map",
+    "static/js/2.89bb41a4.chunk.js.LICENSE.txt": "/simple-weather-app-react/static/js/2.89bb41a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f08e9659.js",
+    "static/js/2.89bb41a4.chunk.js",
+    "static/css/main.1874b091.chunk.css",
+    "static/js/main.3745d97b.chunk.js"
+  ]
+}
